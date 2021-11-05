@@ -1,6 +1,5 @@
 # Generations-And-Finances-Research-Proposal
 Research Proposal Fall 2021
-<!DOCTYPE html>
 <html>
   <head>
     <title>Financial Struggles Within The Generations</title>
