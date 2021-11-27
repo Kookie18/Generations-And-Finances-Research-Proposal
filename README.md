@@ -7,7 +7,7 @@ Research Proposal Fall 2021
     <body>
     <div class="relative">
             <a href='https://www.freecodecamp.org/'><button class="navitem">Introduction</button>
-            <button class="navitem">Background</button>
+            <a href='https://www.foxinfotech.in/2019/04/html-css-align-buttons-horizontally-example.html'><button class="navitem">Background</button>
             <button class="navitem">Rationale</button>
             <button class="navitem">Method and Design</button>
     </div>
