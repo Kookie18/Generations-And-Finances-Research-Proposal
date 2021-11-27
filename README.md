@@ -10,9 +10,9 @@ Research Proposal Fall 2021
             <a href='Background.html'><button class="navitem">Background</button>
             <a href='Rationale.html'><button class="navitem">Rationale</button>
             <a href='Method and Design.html'><button class="navitem">Method and Design</button>
-    </div>
-</body>
-  </head>
+              </div>
+              </body>
+              </head>
   <body>
     <h1>Introduction</h1>
     <p>My research topic is about the financial stability of the generations in
