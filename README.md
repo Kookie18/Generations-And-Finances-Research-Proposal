@@ -8,8 +8,8 @@ Research Proposal Fall 2021
     <div class="relative">
             <a href='README.md'><button class="navitem">Introduction</button>
             <a href='Background.html'><button class="navitem">Background</button>
-            <a href='https://www.freecodecamp.org/'><button class="navitem">Rationale</button>
-            <a href='https://www.freecodecamp.org/'><button class="navitem">Method and Design</button>
+            <a href='Rationale.html'><button class="navitem">Rationale</button>
+            <a href='Method and Design.html'><button class="navitem">Method and Design</button>
     </div>
 </body>
   </head>
