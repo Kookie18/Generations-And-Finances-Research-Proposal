@@ -4,6 +4,16 @@ Research Proposal Fall 2021
   <head>
     <title> Financial Struggles Within The Generations
     </title>
+    <body>
+    <div class="relative">
+        <p>Here’s some content in the paragraph and the buttons
+            <button class="navitem">Introduction</button>
+            <button class="navitem">Background</button>
+            <button class="navitem">Rationale</button>
+            <button class="navitem">Method and Design</button>
+        </p>
+    </div>
+</body>
   </head>
   <body>
     <h1>Introduction</h1>
