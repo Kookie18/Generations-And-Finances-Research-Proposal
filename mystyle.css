@@ -1,15 +1,15 @@
 
 .relative {
- padding: 15px;
+ padding: 20px;
  position: relative;
  background-color: #9370DB;
- margin: 15px;
+ margin: 20px;
 } 
 .navitem {
   display: inline-block;
-  width: 80px; 
-  height: 25px; 
-  text-align: right;
+  width: 100px; 
+  height: 30px; 
+  text-align: center;
   border: #ffffff;
   background-color: #191970;
   color: #fff;
