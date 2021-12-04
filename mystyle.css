@@ -16,12 +16,15 @@
   cursor: context-menu;
   font-weight: 500;
 }
-.body {
- color: #FFE4E1;
+body {
+ color: #1a0033;
 }
-.h1 {
- font-family: "Lucida Console", monospace;
-}
-.p {
+h1 {
  font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+ font-family: "Lucida Console", "Courier New", monospace;
+}
+background {
+ color: #fff2e6
 }
