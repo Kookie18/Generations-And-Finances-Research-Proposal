@@ -19,3 +19,9 @@
 .body {
  color: #FFE4E1;
 }
+.h1 {
+ font-family: "Lucida Console", monospace;
+}
+.p {
+ font-family: "Lucida Console", "Courier New", monospace;
+}
