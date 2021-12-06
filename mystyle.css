@@ -8,7 +8,8 @@
 } 
 .navitem {
   display: inline-block;
-  width: 150px; 
+  float: center;
+  width: 100px; 
   height: 30px; 
   text-align: center;
   border: #ffffff;
