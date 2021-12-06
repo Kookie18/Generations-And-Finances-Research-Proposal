@@ -2,6 +2,7 @@
 .relative {
  padding: 20px;
  position: relative;
+ float: right;
  background-color: #9370DB;
  margin: 20px;
 } 
